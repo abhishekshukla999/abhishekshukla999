@@ -28,6 +28,8 @@
 I'm open to collaborating on exciting projects or joining a dynamic team. If you have an opportunity that aligns with my skills and interests, feel free to reach out!
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=your-github-abhishekshukla999&color=blue)
+
 
 ⭐️ From [Abhishek Shukla](https://github.com/abhishekshukla999)
 
